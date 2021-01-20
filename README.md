@@ -6,19 +6,19 @@ This series is dedicated on teaching you everything you need to know to get star
 <table>
   <tr>
     <td>Lesson 1 : Series Intro <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/01.%20Series%20Intro">Code</a> | <a href="https://youtu.be/3exUFUqgHfA" target="_blank">Video</a></td>
-    <td>Lesson 10 : Git Status & Git Log Commands <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/10.%20Git%20Status%20%26%20Git%20Log%20Commands">Code</a> | <a href="https://youtu.be/vppvHB1j5og" target="_blank">Video</a></td>
+    <td>Lesson 10 : Inspecting Repository <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/10.%20Git%20Status%20%26%20Git%20Log%20Commands">Code</a> | <a href="https://youtu.be/vppvHB1j5og" target="_blank">Video</a></td>
   </tr>
   <tr>
     <td>Lesson 2 : Version Control System (VCS) <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/02.%20Version%20Control%20System%20(VCS)">Code</a> | <a href="https://youtu.be/4Wm4OQr_a4k" target="_blank">Video</a></td>
-    <td>Lesson 11 : Git Checkout, Git Clean, Git Revert, Git Reset & Git Remove Commands <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/11.%20Git%20Checkout%2C%20Git%20Clean%2C%20Git%20Revert%2C%20Git%20Reset%20%26%20Git%20Remove%20Commands">Code</a> | <a href="https://youtu.be/cqGdRsRPRVE" target="_blank">Video</a></td>
+    <td>Lesson 11 : Undoing Changes <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/11.%20Git%20Checkout%2C%20Git%20Clean%2C%20Git%20Revert%2C%20Git%20Reset%20%26%20Git%20Remove%20Commands">Code</a> | <a href="https://youtu.be/cqGdRsRPRVE" target="_blank">Video</a></td>
   </tr>
   <tr>
     <td>Lesson 3 : Source Code Management (SCM) <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/03.%20Source%20Code%20Management%20(SCM)">Code</a> | <a href="https://youtu.be/b4ORLBsSuoo" target="_blank">Video</a></td>
-    <td>Lesson 12 : Git Commit Amend, Git Rebase & Git Reflog Commands <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/12.%20Git%20Commit%20Amend%2C%20Git%20Rebase%20%26%20Git%20Reflog%20Commands">Code</a> | <a href="https://youtu.be/43e8NoWc88Q" target="_blank">Video</a></td>
+    <td>Lesson 12 : Rewrite History <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/12.%20Git%20Commit%20Amend%2C%20Git%20Rebase%20%26%20Git%20Reflog%20Commands">Code</a> | <a href="https://youtu.be/43e8NoWc88Q" target="_blank">Video</a></td>
   </tr>
   <tr>
     <td>Lesson 4 : What is Git <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/04.%20What%20is%20Git">Code</a> | <a href="https://youtu.be/DaUJt07S_sk" target="_blank">Video</a></td>
-    <td>Lesson 13 : Git Remote, Git Fetch, Git Push & Git Pull Commands <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/13.%20Git%20Remote%2C%20Git%20Fetch%2C%20Git%20Push%20%26%20Git%20Pull%20Commands">Code</a> | <a href="https://youtu.be/0x1WrLduqec" target="_blank">Video</a></td>
+    <td>Lesson 13 : Cloud Repository Management <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/13.%20Git%20Remote%2C%20Git%20Fetch%2C%20Git%20Push%20%26%20Git%20Pull%20Commands">Code</a> | <a href="https://youtu.be/0x1WrLduqec" target="_blank">Video</a></td>
   </tr>
   <tr>
     <td>Lesson 5 : Installing Git <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/05.%20Installing%20Git">Code</a> | <a href="https://youtu.be/SJqi97fsWCM" target="_blank">Video</a></td>
@@ -33,7 +33,7 @@ This series is dedicated on teaching you everything you need to know to get star
     <td>Lesson 16 : Cherry Pick <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/16.%20Cherry%20Pick">Code</a> | Video
   </tr>
   <tr>
-    <td>Lesson 8 : Git Add, Git Commit & Git Stash Commands <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/08.%20Git%20Add%2C%20Git%20Commit%20%26%20Git%20Stash%20Commands">Code</a> | <a href="https://youtu.be/lECtafgxhJw" target="_blank">Video</a></td>
+    <td>Lesson 8 : Saving Changes <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/08.%20Git%20Add%2C%20Git%20Commit%20%26%20Git%20Stash%20Commands">Code</a> | <a href="https://youtu.be/lECtafgxhJw" target="_blank">Video</a></td>
     <td>Lesson 17 : Bisect <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/17.%20Bisect">Code</a> | Video
   </tr>
   <tr>
