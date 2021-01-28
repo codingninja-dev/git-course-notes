@@ -26,15 +26,15 @@ This series is dedicated on teaching you everything you need to know to get star
   </tr>
   <tr>
     <td>Lesson 6 : Git with SSH <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/06.%20Git%20with%20SSH">Code</a> | <a href="https://youtu.be/O5dunPEEnUo" target="_blank">Video</a></td>
-    <td>Lesson 15 : Branches <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/15.%20Branches">Code</a> | Video
+    <td>Lesson 15 : Branches <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/15.%20Branches">Code</a> | <a href="https://youtu.be/VBmxpaZMh-s">Video</>
   </tr>
   <tr>
     <td>Lesson 7 : Setup Git Repository <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/07.%20Setup%20Git%20Repository">Code</a> | <a href="https://youtu.be/O5dunPEEnUo" target="_blank">Video</a></td>
-    <td>Lesson 16 : Cherry Pick <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/16.%20Cherry%20Pick">Code</a> | Video
+    <td>Lesson 16 : Cherry Pick <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/16.%20Cherry%20Pick">Code</a> | <a href="https://youtu.be/5F7RbwQ4tu0">Video</a>
   </tr>
   <tr>
     <td>Lesson 8 : Saving Changes <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/08.%20Saving%20Changes">Code</a> | <a href="https://youtu.be/lECtafgxhJw" target="_blank">Video</a></td>
-    <td>Lesson 17 : Bisect <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/17.%20Bisect">Code</a> | Video
+    <td>Lesson 17 : Bisect <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/17.%20Bisect">Code</a> | <a href="https://youtu.be/Th2b_uRYyRY">Video</a>
   </tr>
   <tr>
     <td>Lesson 9 : Gitignore File <a href="https://github.com/codingninja-dev/git-course-notes/tree/master/Git%20Series/09.%20Gitignore%20File">Code</a> | <a href="https://youtu.be/KZlsYk9xtOs" target="_blank">Video</a></td>
